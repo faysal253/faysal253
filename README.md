@@ -2,13 +2,21 @@
 
 </br>
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
-## I'm a Student of C-10 , Developer, and Programmer!!
 
-- 🔭 I currently work on : javaScript
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other new developers
-- 🥅 2021 Goals: Learn full stack web development completely
-- ⚡ Fun fact: become a coder at night and sleep in Day
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+
+- I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **ReactJs**.
+- I always like working in 🐧️**Linux** Environment.
+- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
+
+</br>
+</br>
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faysal253&theme=radical&hide_border=true"/>
+</p>
+
+</br>
+
 
 
 ### Connect with me:
