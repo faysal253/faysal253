@@ -1,13 +1,13 @@
-### Hi there, I'm Faysal - 👋
+### Hi there👋👋 , I'm Faysal!
 
 
-## I'm a Student , Developer, and Programmer!!
+## I'm a Student of Class 10 , Developer, and Programmer!!
 
 - 🔭 I currently work on : javaScript
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other new developers
 - 🥅 2021 Goals: Learn full stack web development completely
-- ⚡ Fun fact: I love hacking and programming / Gameing
+- ⚡ Fun fact: become a coder at night and sleep in Day
 
 
 ### Connect with me:
@@ -67,4 +67,4 @@
 [facebook]: https://facebook.com/faysalhasan.Hello
 [instagram]: https://instagram.com/faysal.hack
 [linkedin]: https://linkedin.com/in/faysal-ahamed-1a256b1a6
-[gmail]:https://mail.google.com/mail/ahammedfaysal37@gmail.com
+[gmail]:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJlHmbGChLMwphnxXtvWPzQZrcjjpdkHPldgcdQnmLnltLzCXNtVwDbqBWkmVfkNsGWjDZL
