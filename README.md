@@ -1,8 +1,8 @@
-### Hi there👋👋 , I'm Faysal!
+# <p align="center">️ **Hello!!<img src="https://raw.githubusercontent.com/Karthik-Nayak98/Karthik-Nayak98/master/assets/wave.gif" alt="waving hand" width="30px">I'm Faysal** 🎯️🚀️</p>
 
 </br>
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
-## I'm a Student of Class 10 , Developer, and Programmer!!
+## I'm a Student of C-10 , Developer, and Programmer!!
 
 - 🔭 I currently work on : javaScript
 - 🌱 I’m currently learning everything 🤣
