@@ -56,11 +56,7 @@
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/14963560/faysal-hasan)
 
 ### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- This will be coming soon...📝
-<!-- BLOG-POST-LIST:END -->
-<br />
+-this will be comming soon
 </br>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
