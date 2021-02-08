@@ -68,6 +68,45 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="faysal's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=faysal253&show_icons=true&hide_border=true" />
+  
+</br>
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+
+<details>
+  <summary>📊 Github Readme Stats</summary>
+ </br>
+ <p align="center">
+  <a href="https://github.com/Karthik-Nayak98">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Karthik-Nayak98&show_icons=true&theme=radical&count_private=true">
+  </a>
+  <a href="https://github.com/Karthik-Nayak98/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Karthik-Nayak98&layout=compact&theme=radical&langs_count=6" />
+  </a>
+ </p>
+</details>
+
+<details>
+ <summary>🏆 Github Profile Trophy</summary>
+ </br>
+ <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=Karthik-Nayak98&column=8&theme=darkhub"/>
+  </a>
+ </p>
+</details>
+
+<details>
+ <summary>⚡ Recent Github Activity</summary>
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#5](https://github.com/codeSTACKr/free-developer-resources/issues/5) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+2. 💪 Opened PR [#5](https://github.com/codeSTACKr/free-developer-resources/pull/5) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+3. 💪 Opened PR [#1](https://github.com/Karthik-Nayak98/free-developer-resources/pull/1) in [Karthik-Nayak98/free-developer-resources](https://github.com/Karthik-Nayak98/free-developer-resources)
+4. ❗️ Opened issue [#871](https://github.com/EddieHubCommunity/support/issues/871) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#1](https://github.com/Karthik-Nayak98/Rubiks-cube/issues/1) in [Karthik-Nayak98/Rubiks-cube](https://github.com/Karthik-Nayak98/Rubiks-cube)
+<!--END_SECTION:activity-->
+
+</details>
 
 
 [website]: https://.com
