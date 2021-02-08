@@ -56,7 +56,7 @@
 <br />
 <br />
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=sonjoybarmon&card_width=550)](https://github.com/faysal253/faysal253)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=faysal253&card_width=550)](https://github.com/faysal253/faysal253)
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="faysal's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=faysal253&show_icons=true&hide_border=true" />
