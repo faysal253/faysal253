@@ -1,12 +1,13 @@
 ### Hi there, I'm Faysal - 👋
 
-## I'm a Student, Developer, and Hacker!!
 
-- 🔭 I currently work on: JavaScript!
+## I'm a Student , Developer, and Programmer!!
+
+- 🔭 I currently work on : javaScript
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developer
-- 🥅 2021 Goals: complete full stack web development
-- ⚡ Fun fact: I am curiouse about kali linux and Wifi Hacking
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Learn full stack web development completely
+- ⚡ Fun fact: I love hacking and programming / Gameing
 
 ### Spotify Playing 🎧
 
@@ -24,7 +25,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
@@ -57,14 +58,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- This will be comming
+- This will be coming soon...📝
+<!-- BLOG-POST-LIST:END -->
 
----
+➡️ [more blog posts...](https://codestackr.com)
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -74,7 +72,6 @@
 </details>
 
 [website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
