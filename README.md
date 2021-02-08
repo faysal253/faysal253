@@ -40,13 +40,12 @@
 <br />
 <br />
 
-
 ### Read More:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://https://www.linkedin.com/in/sonjoybarmon/) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.youtube.com/sonjoybarmon19) 
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@sonjoybarmon) 
-[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/13958409/sonjoy-barmon)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://https://www.linkedin.com/in/faysal-ahamed-1a256b1a6/) 
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.youtube.com/faysalhasan.Hello) 
+[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@faysal) 
+[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/13958409/faysal-hasan)
 
 ### 📕 Latest Blog Posts
 
@@ -57,7 +56,7 @@
 <br />
 <br />
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=sonjoybarmon&card_width=550)](https://github.com/sonjoybarmon/sonjoybarmon)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=sonjoybarmon&card_width=550)](https://github.com/faysal253/faysal253)
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="faysal's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=faysal253&show_icons=true&hide_border=true" />
