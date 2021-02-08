@@ -60,22 +60,3 @@
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/faysal.hack
 [linkedin]: https://linkedin.com/in/faysal-ahamed-1a256b1a6
-
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- This will be coming soon...📝
-<!-- BLOG-POST-LIST:END -->
-
-
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-
-[website]: https://.com
-[twitter]: https://twitter.com/FaysalH25367295
-[youtube]: https://youtube.com/
-[instagram]: https://instagram.com/faysal.hack
-[linkedin]: https://linkedin.com/in/faysal-ahamed-1a256b1a6
