@@ -14,6 +14,7 @@
 
 [<img align="left" alt="pro-faysal.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="pro-faysal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="pro-faysal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="pro-faysal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="pro-faysal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -38,14 +39,13 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
 
 ### Read More:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://https://www.linkedin.com/in/faysal-ahamed-1a256b1a6/) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.youtube.com/faysalhasan.Hello) 
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@faysal) 
-[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/13958409/faysal-hasan)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/faysalhasan.Hello) 
+[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/) 
+[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/14963560/faysal-hasan)
 
 ### 📕 Latest Blog Posts
 
@@ -67,3 +67,4 @@
 [facebook]: https://facebook.com/faysalhasan.Hello
 [instagram]: https://instagram.com/faysal.hack
 [linkedin]: https://linkedin.com/in/faysal-ahamed-1a256b1a6
+[gmail]:https://mail.google.com/mail/ahammedfaysal37@gmail.com
