@@ -60,10 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - This will be coming soon...📝
 <!-- BLOG-POST-LIST:END -->
-
 <br />
-  
 </br>
+
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
   <summary>📊 Github Readme Stats</summary>
