@@ -1,6 +1,7 @@
 ### Hi there👋👋 , I'm Faysal!
 
-
+</br>
+<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
 ## I'm a Student of Class 10 , Developer, and Programmer!!
 
 - 🔭 I currently work on : javaScript
