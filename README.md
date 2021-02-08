@@ -62,17 +62,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br />
-<br />
-
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=faysal253&card_width=550)](https://github.com/faysal253/faysal253)
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="faysal's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=faysal253&show_icons=true&hide_border=true" />
   
 </br>
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
-<details>
   <summary>📊 Github Readme Stats</summary>
  </br>
  <p align="center">
@@ -83,7 +76,7 @@
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Karthik-Nayak98&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
-</details>
+
 
 <details>
  <summary>🏆 Github Profile Trophy</summary>
