@@ -68,11 +68,11 @@
   <summary>📊 Github Readme Stats</summary>
  </br>
  <p align="center">
-  <a href="https://github.com/Karthik-Nayak98">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Karthik-Nayak98&show_icons=true&theme=radical&count_private=true">
+  <a href="https://github.com/faysal253">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=faysal253&show_icons=true&theme=radical&count_private=true">
   </a>
   <a href="https://github.com/Karthik-Nayak98/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Karthik-Nayak98&layout=compact&theme=radical&langs_count=6" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=faysal253&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
 
@@ -82,7 +82,7 @@
  </br>
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=Karthik-Nayak98&column=8&theme=darkhub"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=faysal253&column=8&theme=darkhub"/>
   </a>
  </p>
 </details>
