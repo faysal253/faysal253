@@ -102,4 +102,4 @@
 [facebook]: https://facebook.com/faysalhasan.Hello
 [instagram]: https://instagram.com/faysal.hack
 [linkedin]: https://linkedin.com/in/faysal-ahamed-1a256b1a6
-[gmail]:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJlHmbGChLMwphnxXtvWPzQZrcjjpdkHPldgcdQnmLnltLzCXNtVwDbqBWkmVfkNsGWjDZL
+[gmail]:service_5vzi8bo
