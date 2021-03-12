@@ -17,8 +17,6 @@
 
 </br>
 
-
-
 ### Connect with me:
 
 [<img align="left" alt="pro-faysal.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -29,7 +27,6 @@
 [<img align="left" alt="pro-faysal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
 
 ### Languages and Tools:
 
@@ -50,13 +47,14 @@
 
 ### Read More:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/faysal-ahamed-1a256b1a6/) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/faysalhasan.Hello) 
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/) 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/faysal-ahamed-1a256b1a6/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/faysalhasan.Hello)
+[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/)
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/14963560/faysal-hasan)
 
 ### 📕 Latest Blog Posts
--this will be comming soon
+
+-**this will be comming soon**
 </br>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
@@ -72,7 +70,6 @@
   </a>
  </p>
 
-
 <details>
  <summary>🏆 Github Profile Trophy</summary>
  </br>
@@ -87,19 +84,14 @@
  <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/codeSTACKr/free-developer-resources/issues/5) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-2. 💪 Opened PR [#5](https://github.com/codeSTACKr/free-developer-resources/pull/5) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-3. 💪 Opened PR [#1](https://github.com/Karthik-Nayak98/free-developer-resources/pull/1) in [Karthik-Nayak98/free-developer-resources](https://github.com/Karthik-Nayak98/free-developer-resources)
-4. ❗️ Opened issue [#871](https://github.com/EddieHubCommunity/support/issues/871) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#1](https://github.com/Karthik-Nayak98/Rubiks-cube/issues/1) in [Karthik-Nayak98/Rubiks-cube](https://github.com/Karthik-Nayak98/Rubiks-cube)
+
 <!--END_SECTION:activity-->
 
 </details>
-
 
 [website]: https://faysal253.github.io/web-portfolio/
 [twitter]: https://twitter.com/FaysalH25367295
 [facebook]: https://facebook.com/faysalhasan.Hello
 [instagram]: https://instagram.com/faysal.hack
 [linkedin]: https://linkedin.com/in/faysal-ahamed-1a256b1a6
-[gmail]:service_5vzi8bo
+[gmail]: service_5vzi8bo
